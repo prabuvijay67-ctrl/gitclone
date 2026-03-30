@@ -1,0 +1,1 @@
+gitclone folder to file name read.txt
